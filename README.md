@@ -1,7 +1,9 @@
 ## Applying Bayesian Hierarchical Regression to Reevaluate Concrete Strength Forecasting
 
 Link Github		: https://github.com/axeltanjung/concrete_strengh_bayes/
+
 1.	Introduction & Background
+
 A.	Introduction
 
 Concrete is a fundamental material in modern construction, underpinning the structural integrity of buildings, bridges, roads, and various infrastructure projects. Accurate forecasting of concrete strength, an essential aspect of quality control in construction, has significant implications for both the safety and economic efficiency of construction projects. Traditionally, concrete strength prediction has relied on empirical formulas and simple regression models, but these methods often fall short in capturing the complex variability inherent in concrete properties due to diverse factors such as mix proportions, curing conditions, and material quality.
