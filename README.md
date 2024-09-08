@@ -33,6 +33,7 @@ The primary objective of this journal is to explore the application of Bayesian 
 	Guide Future Research: Finally, based on our findings, we will offer recommendations for further research and practical applications to improve concrete strength forecasting methodologiee.
 
 2.	Dataset
+   
 Given are the variable name, variable type, the measurement unit and a brief description. The concrete compressive strength is the regression problem. The order of this listing corresponds to the order of numerals along the rows of the database.
 
 •	Name -- Data Type -- Measurement -- Description
