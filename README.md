@@ -23,23 +23,36 @@ B.	Objective
 The primary objective of this journal is to explore the application of Bayesian hierarchical regression models in concrete strength forecasting, aiming to reevaluate and enhance traditional predictive methods. Concrete strength is critical for ensuring the safety and durability of structures, and accurate forecasting is essential for effective material utilization and quality control.
 
 	Assess Model Performance: The first objective is to evaluate the performance of Bayesian hierarchical regression models compared to conventional regression techniques. We will measure improvements in prediction accuracy, precision, and reliability offered by Bayesian methods, considering their ability to model variability at multiple levels (e.g., mix, batch, site).
+
 	Analyze Hierarchical Structure Impact: This study will examine how the hierarchical structure inherent in Bayesian models contributes to forecasting accuracy. By isolating site-specific, batch-specific, and mix-specific effects, we aim to determine how well the hierarchical approach captures the complex variability in concrete strength data.
+
 	Utilize Prior Knowledge: We seek to investigate the role of prior distributions in enhancing forecast accuracy. This involves incorporating prior knowledge or historical data into Bayesian models and evaluating how these priors are updated with new information to refine predictions.
+
 	Address Implementation Challenges: The study will identify practical challenges in applying Bayesian hierarchical models, including computational demands and data quality requirements. Recommendations will be provided for effectively integrating these models into real-world forecasting practices.
+
 	Guide Future Research: Finally, based on our findings, we will offer recommendations for further research and practical applications to improve concrete strength forecasting methodologiee.
 
 2.	Dataset
 Given are the variable name, variable type, the measurement unit and a brief description. The concrete compressive strength is the regression problem. The order of this listing corresponds to the order of numerals along the rows of the database.
 
 •	Name -- Data Type -- Measurement -- Description
+
 •	Cement (component 1) -- quantitative -- kg in a m3 mixture -- Input Variable
+
 •	Blast Furnace Slag (component 2) -- quantitative -- kg in a m3 mixture -- Input Variable
+
 •	Fly Ash (component 3) -- quantitative -- kg in a m3 mixture -- Input Variable
+
 •	Water (component 4) -- quantitative -- kg in a m3 mixture -- Input Variable
+
 •	Superplasticizer (component 5) -- quantitative -- kg in a m3 mixture -- Input Variable
+
 •	Coarse Aggregate (component 6) -- quantitative -- kg in a m3 mixture -- Input Variable
+
 •	Fine Aggregate (component 7) -- quantitative -- kg in a m3 mixture -- Input Variable
+
 •	Age -- quantitative -- Day (1~365) -- Input Variable
+
 •	Concrete compressive strength -- quantitative -- MPa -- Output Variable
 
 Source of original dataset can be access through this link:
